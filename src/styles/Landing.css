@@ -1,0 +1,26 @@
+.landing {
+  background: #3b928a;
+}
+.point1 {
+  background-color: rgba(236, 248, 255, 0.77);
+  border-left: .75rem solid rgb(83, 226, 174);
+  border-right: .75rem solid rgb(83, 226, 174);
+  border-bottom: .75rem solid rgb(83, 226, 174);
+}
+
+.point2 {
+  background-color: rgba(236, 248, 255, 0.77);
+  border-left: .75rem solid rgb(75, 209, 160);
+  border-right: .75rem solid rgb(75, 209, 160);
+  border-bottom: .75rem solid rgb(75, 209, 160);
+}
+
+.point3 {
+  background-color: rgba(236, 248, 255, 0.77);
+  border-left: .75rem solid rgb(74, 186, 145);
+  border-bottom: .75rem solid rgb(74, 186, 145);
+  border-right: .75rem solid rgb(74, 186, 145);
+}
+h1.hero-title{
+  padding-top: 20px;
+}

@@ -1,0 +1,21 @@
+.library-album{
+    border: solid;
+    color: rgb(46, 112, 87);
+    margin-bottom: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-decoration: inherit;
+}
+
+.library-album-title{
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.library-album-artist{
+font-size: 1.2em;
+}
+
+img{
+   border-radius: 25px;
+}
